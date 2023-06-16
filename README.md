@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hello👋
 
-<!--
-**trtw9889/trtw9889** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sujeong! I'm a Back-end developer who mainly uses node. ✨️ <br/> 
+I'm not ashamed of what I don't know, I actively explore and try. 🔥<br/>
+Thanks for visiting my github.🙌
+<br/>
+<br/>
 
-Here are some ideas to get you started:
+## 🔧Skills
+|JavaScript|Nodejs|MySql|Rest|
+| :--: | :--: | :--: | :--: |
+| <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /> |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+## 💻Blog
+</a>[![Velog](https://img.shields.io/badge/-Velog-20C997?logo=Velog&logoColor=white&style=for-the-badge)](https://velog.io/@trtw9889)
+
+<br />
+
+## 📊 GitHub Stats
+![Sujeong's github stats](https://github-readme-stats-five-nu-83.vercel.app/api?username=trtw9889&show_icons=true&theme=apprentice)
+
+
