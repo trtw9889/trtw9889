@@ -19,6 +19,6 @@ Thanks for visiting my github.🙌
 <br />
 
 ## 📊 GitHub Stats
-![Sujeong's github stats](https://github-readme-stats-five-nu-83.vercel.app/api?username=trtw9889&show_icons=true&theme=apprentice)
+![Sujeong's github stats](https://github-readme-stats-black-kappa-42.vercel.app/api?username=trtw9889&show_icons=true&theme=apprentice)
 
 
